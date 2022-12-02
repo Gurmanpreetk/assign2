@@ -1,0 +1,44 @@
+body{
+    background-color: blanchedalmond;
+  
+}
+nav{
+    width: 100%;
+    display: flex;
+    background-color: skyblue;
+    margin: 0px 0px;
+    padding: 0px 0px;
+
+}
+a{
+    color: black;
+    font-family: cursive;
+    margin: 5px 64px;
+    text-decoration: none;
+
+
+}
+img{
+    display: flex;
+    justify-content: center;
+    float: left;
+    height: 78%;
+    margin-right: 34px;
+
+}
+h1{ background-color: antiquewhite;
+   text-align: center;
+}
+p{ font-weight: 200;
+    font-size: 33px;
+    color: bisque;
+}
+a:hover{
+    cursor: pointer;
+    background-color: pink;
+}
+body{
+    background-image: url("./books.jpg");
+
+}
+
