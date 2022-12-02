@@ -1,0 +1,19 @@
+nav{
+    width: 100%;
+    display: flex;
+    background-color: skyblue;
+    margin: 0px 0px;
+    padding: 0px 0px;
+
+}
+a{
+    color: black;
+    font-family: cursive;
+    margin: 5px 64px;
+    text-decoration: none;
+
+
+}
+body{
+    background-color: aquamarine;
+}
